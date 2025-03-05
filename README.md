@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Abdellah!
 
 # 💫 About Me:
-👨🏽‍🎓 Embedded Systems for Digital services engineering student at INPT (Institut National des Postes et Télécommunication)<br>
+👨🏽‍🎓 Computer Science engineering student at INPT (Institut National des Postes et Télécommunication)<br>
 🤖 Passionate about the world of robotics, IoT, and machine learning.<br>🛠️ Looking for projects to make in practice my knowledge about embedded systems<br>
 👔 I am actively looking for an internship as well to gain practical experience and discover the job world
 
