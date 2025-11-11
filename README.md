@@ -11,7 +11,6 @@ Mon objectif est de développer des systèmes électroniques **efficaces, fiable
 - **Conception numérique / RTL (VHDL / Verilog / SystemVerilog)**
 - **FPGA / SoC, VLSI / ASIC design**
 - **Développement embarqué (ARM / STM32 / RISC-V)**
-- 
 ---
 
 ## 🧠 Domaines de compétence
