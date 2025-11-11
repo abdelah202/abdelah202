@@ -1,30 +1,60 @@
-## 👋 Hi there, I'm Abdellah!
+## 👋 Salut, moi c'est Abdellah
 
-# 💫 About Me:
-👨🏽‍🎓 Computer Science engineering student at INPT (Institut National des Postes et Télécommunication)<br>
-🤖 Passionate about the world of robotics, IoT, and machine learning.<br>🛠️ Looking for projects to make in practice my knowledge about embedded systems<br>
-👔 I am actively looking for an internship as well to gain practical experience and discover the job world
+### 🎓 À propos
+Étudiant en **double diplôme** en **Informatique et Électronique pour les Systèmes Embarqués**  
+à **Polytech Grenoble (INP Grenoble – UGA)** et **INPT (Rabat, Maroc)**.
 
+Passionné par la **conception matérielle**, les **architectures FPGA / SoC**,  
+et le **développement bas niveau** pour systèmes embarqués.  
+Mon objectif est de développer des systèmes électroniques **efficaces, fiables et intégrés**,  
+allant de la **modélisation hardware** jusqu’au **déploiement en environnement embarqué**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-taouil-5a023321b)
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdelah202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdelah202&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelah202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔍 **Actuellement à la recherche d’un stage de fin d’études (PFE)**  
+dans les domaines :
+- **Conception numérique / RTL (VHDL / Verilog / SystemVerilog)**
+- **FPGA / SoC, VLSI / ASIC design**
+- **Développement embarqué (ARM / STM32 / RISC-V)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdelah202&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Domaines de compétence
+
+### 🟣 Conception & Programmation Bas Niveau
+- **HDL :** VHDL, Verilog, SystemVerilog  
+- **Conception RTL / FSM**, pipelines, datapath, unités arithmétiques  
+- **Microcontrôleurs & embarqué :** C embarqué, ARM Cortex, STM32, PIC18  
+- **Langage Assembleur** (ARM / PIC)
+
+### 🔵 Traitement du signal & Scripts
+- **Python** (acquisition, traitement, machine learning léger)
+- MATLAB / Simulink
+
+### 🟢 Hardware & Prototypage
+- FPGA (Intel / Xilinx), Raspberry Pi, ESP, Arduino  
+- **Schémas & PCB :** KiCad, Proteus, Orcad
+
+### 🟡 Outils & Environnements
+- Quartus Prime, ModelSim, STM32CubeIDE, MPLAB X, Vivado  
+- Git / GitHub  
+- Linux & Windows
+
+### 🔹 *Compétences complémentaires (secondaires)*
+- Bases en **développement web** : HTML, CSS, JavaScript  
+  (uniquement pour interfaces simples et besoins projet)
+
+---
+
+## 🌐 Réseaux
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-taouil-5a023321b)
+
+---
+
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=abdelah202&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdelah202&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelah202&theme=dark&hide_border=false&layout=compact)
+
+---
+
+> ✉️ N’hésite pas à me contacter pour échanger autour de projets embarqués, FPGA, ou hardware design.  
+> Je suis ouvert aux collaborations & opportunités de stage.
