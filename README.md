@@ -1,20 +1,17 @@
 ## 👋 Salut, moi c'est Abdellah
 
 ### 🎓 À propos
-Étudiant en **double diplôme** en **Informatique et Électronique pour les Systèmes Embarqués**  
-à **Polytech Grenoble (INP Grenoble – UGA)** et **INPT (Rabat, Maroc)**.
+Étudiant en **double diplôme** en **Informatique et Électronique pour les Systèmes Embarqués** à **Polytech Grenoble (INP Grenoble – UGA)** et **INPT (Rabat, Maroc)**.
 
-Passionné par la **conception matérielle**, les **architectures FPGA / SoC**,  
-et le **développement bas niveau** pour systèmes embarqués.  
-Mon objectif est de développer des systèmes électroniques **efficaces, fiables et intégrés**,  
-allant de la **modélisation hardware** jusqu’au **déploiement en environnement embarqué**.
+Passionné par la **conception matérielle**, les **architectures FPGA / SoC**, et le **développement bas niveau** pour systèmes embarqués.  
 
-🔍 **Actuellement à la recherche d’un stage de fin d’études (PFE)**  
-dans les domaines :
+Mon objectif est de développer des systèmes électroniques **efficaces, fiables et intégrés**, allant de la **modélisation hardware** jusqu’au **déploiement en environnement embarqué**.
+
+🔍 **Actuellement à la recherche d’un stage de fin d’année (PFA)** dans les domaines :
 - **Conception numérique / RTL (VHDL / Verilog / SystemVerilog)**
 - **FPGA / SoC, VLSI / ASIC design**
 - **Développement embarqué (ARM / STM32 / RISC-V)**
-
+- 
 ---
 
 ## 🧠 Domaines de compétence
@@ -27,7 +24,7 @@ dans les domaines :
 
 ### 🔵 Traitement du signal & Scripts
 - **Python** (acquisition, traitement, machine learning léger)
-- MATLAB / Simulink
+- MATLAB / Simulink / Scilab
 
 ### 🟢 Hardware & Prototypage
 - FPGA (Intel / Xilinx), Raspberry Pi, ESP, Arduino  
