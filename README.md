@@ -1,46 +1,47 @@
-## 👋 Salut, moi c'est Abdellah
+## 👋 Hi, I’m Abdellah
 
-### 🎓 À propos
-Étudiant en **double diplôme** en **Informatique et Électronique pour les Systèmes Embarqués** à **Polytech Grenoble (INP Grenoble – UGA)** et **INPT (Rabat, Maroc)**.
+### 🎓 About Me
+I am a double degree student in Computer Science and Embedded Electronic Systems Engineering at Polytech Grenoble (INP Grenoble – UGA) and INPT (Rabat, Morocco).
 
-Passionné par la **conception matérielle**, les **architectures FPGA / SoC**, et le **développement bas niveau** pour systèmes embarqués.  
+I am passionate about **hardware design**, **FPGA / SoC architectures**, and **low-level embedded development**.
 
-Mon objectif est de développer des systèmes électroniques **efficaces, fiables et intégrés**, allant de la **modélisation hardware** jusqu’au **déploiement en environnement embarqué**.
+My goal is to design efficient, reliable, and well-integrated electronic systems, ranging from hardware modeling (RTL design) to deployment on embedded platforms.
 
-🔍 **Actuellement à la recherche d’un stage de fin d’année (PFA)** dans les domaines :
-- **Conception numérique / RTL (VHDL / Verilog / SystemVerilog)**
+🔍 Currently looking for a **final-year internship (PFE)** in the following fields:
+- **Digital design / RTL (VHDL / Verilog / SystemVerilog)**
 - **FPGA / SoC, VLSI / ASIC design**
-- **Développement embarqué (ARM / STM32 / RISC-V)**
+- **Embedded systems development (ARM / STM32 / RISC-V)**
+
 ---
 
-## 🧠 Domaines de compétence
+## 🧠 Technical Skills
 
-### 🟣 Conception & Programmation Bas Niveau
-- **HDL :** VHDL, Verilog, SystemVerilog  
-- **Conception RTL / FSM**, pipelines, datapath, unités arithmétiques  
-- **Microcontrôleurs & embarqué :** C embarqué, ARM Cortex, STM32, PIC18  
-- **Langage Assembleur** (ARM / PIC)
+### 🟣 Low-Level Design & Programming
+- **HDL:** VHDL, Verilog, SystemVerilog  
+- **RTL design / FSM**, pipelines, datapaths, arithmetic units  
+- **Microcontrollers & Embedded Systems:** Embedded C, ARM Cortex, STM32, PIC18  
+- **Assembly Language:** ARM / PIC  
 
-### 🔵 Traitement du signal & Scripts
-- **Python** (acquisition, traitement, machine learning léger)
-- MATLAB / Simulink / Scilab
+### 🔵 Signal Processing & Scripting
+- **Python** (data acquisition, processing, lightweight machine learning)
+- MATLAB / Simulink / Scilab  
 
-### 🟢 Hardware & Prototypage
-- FPGA (Intel / Xilinx), Raspberry Pi, ESP, Arduino  
-- **Schémas & PCB :** KiCad, Proteus, Orcad
+### 🟢 Hardware & Prototyping
+- FPGA (Intel / Xilinx), Raspberry Pi, ESP32, Arduino  
+- **Schematics & PCB design:** KiCad, Proteus, OrCAD  
 
-### 🟡 Outils & Environnements
+### 🟡 Tools & Environments
 - Quartus Prime, ModelSim, STM32CubeIDE, MPLAB X, Vivado  
 - Git / GitHub  
-- Linux & Windows
+- Linux & Windows  
 
-### 🔹 *Compétences complémentaires (secondaires)*
-- Bases en **développement web** : HTML, CSS, JavaScript  
-  (uniquement pour interfaces simples et besoins projet)
+### 🔹 *Additional Skills*
+- Basic **web development**: HTML, CSS, JavaScript  
+  (used only for simple interfaces and project needs)
 
 ---
 
-## 🌐 Réseaux
+## 🌐 Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-taouil-5a023321b)
 
 ---
@@ -52,5 +53,5 @@ Mon objectif est de développer des systèmes électroniques **efficaces, fiable
 
 ---
 
-> ✉️ N’hésite pas à me contacter pour échanger autour de projets embarqués, FPGA, ou hardware design.  
-> Je suis ouvert aux collaborations & opportunités de stage.
+> ✉️ Feel free to contact me to discuss embedded systems, FPGA, or hardware design projects.  
+> I am open to collaborations and internship opportunities.
