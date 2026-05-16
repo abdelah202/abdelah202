@@ -46,6 +46,7 @@ My goal is to design **efficient, reliable, and well-integrated embedded systems
 ### 🔹 *Additional Skills*
 - **web development**: HTML, CSS, JavaScript
 - **mobile development**: Flutter (Dart), Kotlin, Android Studio
+
   (used for simple interfaces and project integration)
 
 ---
