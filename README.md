@@ -3,41 +3,49 @@
 ### 🎓 About Me
 I am a double degree student in Computer Science and Embedded Electronic Systems Engineering at Polytech Grenoble (INP Grenoble – UGA) and INPT (Rabat, Morocco).
 
-I am passionate about **hardware design**, **FPGA / SoC architectures**, and **low-level embedded development**.
+I am passionate about **embedded systems**, with a strong focus on **low-level hardware design** (FPGA / RTL / SoC) and an increasing interest in **firmware and embedded software development**.
 
-My goal is to design efficient, reliable, and well-integrated electronic systems, ranging from hardware modeling (RTL design) to deployment on embedded platforms.
+My goal is to design **efficient, reliable, and well-integrated embedded systems**, bridging the gap between **hardware architecture (RTL design)** and **firmware implementation on microcontrollers and embedded platforms**.
 
 🔍 Currently looking for a **final-year internship (PFE)** in the following fields:
+- **Embedded systems development (firmware / low-level software)**
 - **Digital design / RTL (VHDL / Verilog / SystemVerilog)**
 - **FPGA / SoC, VLSI / ASIC design**
-- **Embedded systems development (ARM / STM32 / RISC-V)**
+- **Embedded C development on ARM / STM32 / RISC-V platforms**
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🟣 Low-Level Design & Programming
+### 🟣 Low-Level Design & Hardware Architecture
 - **HDL:** VHDL, Verilog, SystemVerilog  
 - **RTL design / FSM**, pipelines, datapaths, arithmetic units  
-- **Microcontrollers & Embedded Systems:** Embedded C, ARM Cortex, STM32, PIC18  
-- **Assembly Language:** ARM / PIC  
+- **FPGA / SoC design concepts**  
+- Hardware-oriented thinking and system-level architecture design  
 
-### 🔵 Signal Processing & Scripting
-- **Python** (data acquisition, processing, lightweight machine learning)
+### 🔵 Embedded Firmware & Software Development
+- **Embedded C (bare-metal development)**
+- ARM Cortex microcontrollers (STM32, PIC18)
+- Peripheral drivers (GPIO, UART, SPI, I2C basics)
+- Firmware logic for real-time embedded systems
+- Basic RTOS concepts (tasking, scheduling awareness)
+
+### 🟢 Signal Processing & Scripting
+- **Python** (data acquisition, processing, lightweight ML applications)
 - MATLAB / Simulink / Scilab  
 
-### 🟢 Hardware & Prototyping
+### 🟡 Hardware & Prototyping
 - FPGA (Intel / Xilinx), Raspberry Pi, ESP32, Arduino  
 - **Schematics & PCB design:** KiCad, Proteus, OrCAD  
 
-### 🟡 Tools & Environments
+### 🟠 Tools & Environments
 - Quartus Prime, ModelSim, STM32CubeIDE, MPLAB X, Vivado  
 - Git / GitHub  
 - Linux & Windows  
 
 ### 🔹 *Additional Skills*
 - Basic **web development**: HTML, CSS, JavaScript  
-  (used only for simple interfaces and project needs)
+  (used for simple interfaces and project integration)
 
 ---
 
@@ -47,11 +55,11 @@ My goal is to design efficient, reliable, and well-integrated electronic systems
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdelah202&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdelah202&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=abdelah202&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdelah202&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelah202&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-> ✉️ Feel free to contact me to discuss embedded systems, FPGA, or hardware design projects.  
+> ✉️ Feel free to contact me to discuss embedded systems, firmware development, FPGA design, or hardware architecture projects.  
 > I am open to collaborations and internship opportunities.
