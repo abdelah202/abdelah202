@@ -26,25 +26,26 @@ My goal is to design **efficient, reliable, and well-integrated embedded systems
 ### 🔵 Embedded Firmware & Software Development
 - **Embedded C (bare-metal development)**
 - ARM Cortex microcontrollers (STM32, PIC18)
-- Peripheral drivers (GPIO, UART, SPI, I2C basics)
+- Peripheral drivers (GPIO, UART, SPI, I2C, NFC)
 - Firmware logic for real-time embedded systems
-- Basic RTOS concepts (tasking, scheduling awareness)
+- RTOS concepts (tasking, scheduling awareness)
 
 ### 🟢 Signal Processing & Scripting
 - **Python** (data acquisition, processing, lightweight ML applications)
 - MATLAB / Simulink / Scilab  
 
 ### 🟡 Hardware & Prototyping
-- FPGA (Intel / Xilinx), Raspberry Pi, ESP32, Arduino  
+- FPGA (Zybo / Xilinx), STM32, Raspberry Pi, ESP32, Arduino  
 - **Schematics & PCB design:** KiCad, Proteus, OrCAD  
 
 ### 🟠 Tools & Environments
-- Quartus Prime, ModelSim, STM32CubeIDE, MPLAB X, Vivado  
-- Git / GitHub  
+- Vitis, Vivado, Vsim, Quartus Prime, ModelSim, STM32CubeIDE, MPLAB X  
+- Git / GitHub / Gitlab
 - Linux & Windows  
 
 ### 🔹 *Additional Skills*
-- Basic **web development**: HTML, CSS, JavaScript  
+- **web development**: HTML, CSS, JavaScript
+- **mobile development**: Flutter (Dart), Kotlin, Android Studio
   (used for simple interfaces and project integration)
 
 ---
