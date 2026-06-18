@@ -10,7 +10,6 @@ My goal is to design **efficient, reliable, and well-integrated embedded systems
 🔍 Currently looking for a **final-year internship (PFE)** in the following fields:
 - **Embedded systems development (firmware / low-level software)**
 - **Digital design / RTL (VHDL / Verilog / SystemVerilog)**
-- **FPGA / SoC, VLSI / ASIC design**
 - **Embedded C development on ARM / STM32 / RISC-V platforms**
 
 ---
